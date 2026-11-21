@@ -1,0 +1,6 @@
+{
+  "name": "M3U Repo Studio",
+  "description": "Formate listas M3U, organize canais e gere um repositório pronto para o GitHub com URL Raw, README.md e pacote ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
