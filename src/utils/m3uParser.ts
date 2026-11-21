@@ -23,7 +23,7 @@ function extractAttr(header: string, attrName: string): string {
 }
 
 export function detectServerLabel(name: string, url: string): string {
-  const nameMatch = name.match(/\((Speed\s*\d+)\)/i);
+  const nameMatch = name.match(/\((Speed\s*\d+|App Android)\)/i);
   if (nameMatch) return nameMatch[1];
   const urlMatch = url.match(/speed-(\d+)/i);
   if (urlMatch) return `Speed ${urlMatch[1]}`;

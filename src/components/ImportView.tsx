@@ -71,7 +71,7 @@ export function ImportView({
           className="px-3.5 py-2 text-xs font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 transition-colors inline-flex items-center gap-1.5 cursor-pointer whitespace-nowrap self-start sm:self-auto"
         >
           <RotateCcw className="w-3.5 h-3.5 text-slate-500" />
-          Restaurar lista original (62 canais)
+          Restaurar lista padrão (57 canais)
         </button>
       </div>
 

@@ -1,125 +1,115 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 01 — Opção 1 (Speed 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Esportes",ESPN 01 — Opção 1 (Speed 3)
 https://embed.megafonte.site/speed-3/playlist/9907111.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 01 — Opção 2 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Esportes",ESPN 01 — Opção 2 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/446.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 01 — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Esportes",ESPN 01 — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 01 — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Esportes",ESPN 01 — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/193.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/219655.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 2 (Speed 4)
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 01 — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Esportes",ESPN 01 — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/446.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/200.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/201.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 02 — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png" group-title="Esportes",ESPN 02 — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/219655.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 1 (Speed 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 1 (Speed 3)
 https://embed.megafonte.site/speed-3/playlist/9907077.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 2 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/557.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 3 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/556.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 3 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/557.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 4 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/558.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 5 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 5 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/559.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 1 (Speed 2)
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 01 — Opção 5 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Esportes",Sportv 01 — Opção 5 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/558.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 1 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 1 (App Android)
 https://embed.megafonte.site/speed-2/playlist/1140.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 2 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 2 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/1138.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 3 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 3 (Speed 2)
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 2 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 2 (App Android)
 https://embed.megafonte.site/speed-2/playlist/219701.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 02 Clubes — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-2-br.png" group-title="Esportes",Premiere 02 Clubes — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/7325529.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere 01 Clubes — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-clubes-br.png" group-title="Esportes",Premiere 01 Clubes — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/1138.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 02 Clubes — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-2-br.png" group-title="Esportes",Premiere 02 Clubes — Opção 1 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/434.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 02 Clubes — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-2-br.png" group-title="Esportes",Premiere 02 Clubes — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/433.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 02 Clubes — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-2-br.png" group-title="Esportes",Premiere 02 Clubes — Opção 3 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/434.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 03 Clubes — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-3-br.png" group-title="Esportes",Premiere 03 Clubes — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/1148.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 03 Clubes — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-3-br.png" group-title="Esportes",Premiere 03 Clubes — Opção 1 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/437.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 03 Clubes — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-3-br.png" group-title="Esportes",Premiere 03 Clubes — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/436.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 03 Clubes — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-3-br.png" group-title="Esportes",Premiere 03 Clubes — Opção 3 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/437.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 03 Clubes — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-3-br.png" group-title="Esportes",Premiere 03 Clubes — Opção 4 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/438.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 04 Clubes — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-4-br.png" group-title="Esportes",Premiere 04 Clubes — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/7325531.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 04 Clubes — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-4-br.png" group-title="Esportes",Premiere 04 Clubes — Opção 1 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/442.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 04 Clubes — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-4-br.png" group-title="Esportes",Premiere 04 Clubes — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/441.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 04 Clubes — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-4-br.png" group-title="Esportes",Premiere 04 Clubes — Opção 3 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/442.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 04 Clubes — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-4-br.png" group-title="Esportes",Premiere 04 Clubes — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/7325531.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 05 Clubes (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-5-br.png" group-title="Esportes",Premiere 05 Clubes (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/446.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 1 (Speed 3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 1 (Speed 3)
-https://embed.megafonte.site/speed-3/playlist/9907107.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 2 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 2 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/7325535.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/449.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 4 (Speed 4)
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/450.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 08 Clubes — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-8-br.png" group-title="Esportes",Premiere 08 Clubes — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/1172.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 08 Clubes — Opção 2 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-8-br.png" group-title="Esportes",Premiere 08 Clubes — Opção 2 (Speed 2)
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 06 Clubes — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-6-br.png" group-title="Esportes",Premiere 06 Clubes — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/7325535.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 08 Clubes — Opção 1 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-8-br.png" group-title="Esportes",Premiere 08 Clubes — Opção 1 (App Android)
 https://embed.megafonte.site/speed-2/playlist/1170.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 08 Clubes — Opção 2 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-8-br.png" group-title="Esportes",Premiere 08 Clubes — Opção 2 (App Android)
+https://embed.megafonte.site/speed-2/playlist/1172.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo SP — Opção 1 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/285.m3u8?jw=1&auto_quality=0
+https://embed.megafonte.site/speed-4/playlist/286.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo SP — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/284.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo SP — Opção 3 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/286.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo SP — Opção 4 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/287.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/7694466.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 2 (Speed 4)
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo SP — Opção 4 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/285.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/796.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 2 (Speed 4)
+https://embed.megafonte.site/speed-4/playlist/277.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 3 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/797.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 4 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/277.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ — Opção 4 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo RJ — Opção 4 (App Android)
+https://embed.megafonte.site/speed-2/playlist/7694466.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="globo.pe.br" tvg-name="Globo PE (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="TV Aberta",Globo PE (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/271.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="TV Aberta",SBT SP — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/4607327.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="TV Aberta",SBT SP — Opção 2 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/521.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="TV Aberta",SBT SP — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="TV Aberta",SBT SP — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/524.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/4607263.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 2 (Speed 4)
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP — Opção 2 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="TV Aberta",SBT SP — Opção 2 (App Android)
+https://embed.megafonte.site/speed-2/playlist/4607327.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/486.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/487.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 4 (Speed 4)
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 3 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/488.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP — Opção 4 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="TV Aberta",Record SP — Opção 4 (App Android)
+https://embed.megafonte.site/speed-2/playlist/4607263.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band SP (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="TV Aberta",Band SP (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/45.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="tv.cultura.br" tvg-name="TV Cultura — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV Aberta",TV Cultura — Opção 1 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/139.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="tv.cultura.br" tvg-name="TV Cultura — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV Aberta",TV Cultura — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/141.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="tv.cultura.br" tvg-name="TV Cultura — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV Aberta",TV Cultura — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="tv.cultura.br" tvg-name="TV Cultura — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV Aberta",TV Cultura — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/142.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount+ 01 — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Filmes e Séries",Paramount+ 01 — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/7326916.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount+ 01 — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Filmes e Séries",Paramount+ 01 — Opção 2 (Speed 4)
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount+ 01 — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Filmes e Séries",Paramount+ 01 — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/556725.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 01 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amazon-prime-video-us.png" group-title="Filmes e Séries",Prime Video 01 (Speed 2)
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount+ 01 — Opção 2 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Filmes e Séries",Paramount+ 01 — Opção 2 (App Android)
+https://embed.megafonte.site/speed-2/playlist/7326916.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 01 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amazon-prime-video-us.png" group-title="Filmes e Séries",Prime Video 01 (App Android)
 https://embed.megafonte.site/speed-2/playlist/4814043.m3u8?jw=1&auto_quality=0
 #EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cnn-brasil-br.png" group-title="Notícias",CNN Brasil (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/116.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="Jovem Pan News — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News — Opção 1 (Speed 4)
-https://embed.megafonte.site/speed-4/playlist/365.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="Jovem Pan News — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News — Opção 2 (Speed 4)
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="Jovem Pan News — Opção 1 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News — Opção 1 (App Android)
 https://embed.megafonte.site/speed-4/playlist/368.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="sbt.news.br" tvg-name="SBT News (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-news-br.png" group-title="Notícias",SBT News (Speed 2)
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="Jovem Pan News — Opção 2 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News — Opção 2 (App Android)
+https://embed.megafonte.site/speed-4/playlist/365.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="sbt.news.br" tvg-name="SBT News (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-news-br.png" group-title="Notícias",SBT News (App Android)
 https://embed.megafonte.site/speed-2/playlist/8113869.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 1 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 1 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/4610177.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 2 (Speed 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 2 (Speed 2)
-https://embed.megafonte.site/speed-2/playlist/4610164.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 3 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 3 (Speed 4)
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 1 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 1 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/23.m3u8?jw=1&auto_quality=0
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 4 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 4 (Speed 4)
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 2 (Speed 4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 2 (Speed 4)
 https://embed.megafonte.site/speed-4/playlist/24.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 3 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 3 (App Android)
+https://embed.megafonte.site/speed-2/playlist/4610177.m3u8?jw=1&auto_quality=0
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet — Opção 4 (App Android)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png" group-title="Documentários",Animal Planet — Opção 4 (App Android)
+https://embed.megafonte.site/speed-2/playlist/4610164.m3u8?jw=1&auto_quality=0

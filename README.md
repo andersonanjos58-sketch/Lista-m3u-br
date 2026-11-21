@@ -1,6 +1,6 @@
 # Lista IPTV M3U
 
-Repositório com a lista IPTV formatada em [`lista.m3u`](./lista.m3u) contendo **62 canais** organizados em **5 categorias**.
+Repositório com a lista IPTV formatada em [`lista.m3u`](./lista.m3u) contendo **57 canais** organizados em **5 categorias**.
 
 ## Como usar o link direto (Raw) no seu Player IPTV
 
@@ -15,9 +15,9 @@ Depois de publicar este repositório como **Público** no GitHub:
 
 | Categoria | Quantidade |
 | :--- | ---: |
-| Esportes | 31 |
-| TV Aberta | 20 |
+| Esportes | 28 |
+| TV Aberta | 18 |
 | Filmes e Séries | 3 |
 | Notícias | 4 |
 | Documentários | 4 |
-| **Total** | **62** |
+| **Total** | **57** |

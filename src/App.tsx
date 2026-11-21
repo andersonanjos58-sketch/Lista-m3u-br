@@ -132,7 +132,7 @@ export default function App() {
     const fresh = parseM3U(USER_RAW_M3U);
     setChannels(fresh.channels);
     setRepairedLineBreaks(fresh.repairedLineBreaks);
-    notify('Lista original restaurada com os 62 canais.');
+    notify(`Lista padrão restaurada com ${fresh.channels.length} canais.`);
   };
 
   const handleCopyM3uQuick = async () => {
